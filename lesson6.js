@@ -1,7 +1,7 @@
 var people = [ 
         { name: "John", age: 55 }, 
         { name: "Roger", age: 44 },
-        { Name: "Betty", age: 37 }
+        { name: "Betty", age: 37 }
     ]
 
 //Desired result Print out all names 
